@@ -56,7 +56,7 @@ Statistics:
 
 # Parameters related to the initial conditions
 InitialConditions:
-  file_name:  ICs/ICs_host.hdf5 # The file to read
+  file_name:  SimulationOutputs/ICs/ICs_host.hdf5 # The file to read
   periodic:                    0    # Are we running with periodic ICs?
 
 # Parameters controlling restarts
